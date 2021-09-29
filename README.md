@@ -14,3 +14,30 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+# HOLA
+
+![Esta es una imagen](https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Computer-science-education.jpg/1200px-Computer-science-education.jpg)
+## Sobre mi
+😄Me llamo leonardo isidro.
+
+💻Soy estudiante de CS
+
+💡Estoy cursando el primer ciclo de la carrera  en  UTEC.
+
+## Pasatiempos
+- Jugar futbol,videojuegos,etc.
+- Ver series,peliculas,un poco de anime.
+- Programar un poco.
+
+## Lenguajes que ...
+**Conozco**
+
+- python
+- kotlin(conceptos basicos)
+- html(conceptos basicos)
+
+**Quisiera aprender**
+
+- javascript
+- java
+- c++
