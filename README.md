@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 ## Sobre mi
 😄Me llamo leonardo isidro.
 
-💻Soy estudiante de CS
+💻 🖱️ Soy estudiante de CS
 
 💡Estoy cursando el primer ciclo de la carrera  en  UTEC.
 
@@ -41,3 +41,4 @@ Here are some ideas to get you started:
 - javascript
 - java
 - c++
+
