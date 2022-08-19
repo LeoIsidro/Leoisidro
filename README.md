@@ -32,7 +32,7 @@ Here are some ideas to get you started:
 ## Lenguajes que ...
 **Conozco**
 
-- python
+- python👋
 - kotlin(conceptos basicos)
 - html(conceptos basicos)
 
