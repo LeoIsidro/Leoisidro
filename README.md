@@ -16,13 +16,13 @@ Here are some ideas to get you started:
 -->
 # HOLA
 
-![Esta es una imagen](https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Computer-science-education.jpg/1200px-Computer-science-education.jpg)
+
 ## Sobre mi
 😄Me llamo leonardo isidro.
 
 💻 🖱️ Soy estudiante de CS
 
-💡Estoy cursando el primer ciclo de la carrera  en  UTEC.
+💡Estoy cursando el quinto ciclo de la carrera  en  UTEC.
 
 ## Pasatiempos
 - Jugar futbol,videojuegos,etc.
@@ -35,10 +35,6 @@ Here are some ideas to get you started:
 - python👋
 - kotlin(conceptos basicos)
 - html(conceptos basicos)
-
-**Quisiera aprender**
-
-- javascript
-- java
 - c++
+- javascript
 
