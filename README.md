@@ -27,7 +27,6 @@ Here are some ideas to get you started:
 ## Pasatiempos
 - Jugar futbol,videojuegos,etc.
 - Ver series,peliculas,un poco de anime.
-- Programar un poco.
 
 ## Lenguajes que ...
 **Conozco**
